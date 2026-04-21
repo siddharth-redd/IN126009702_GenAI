@@ -102,14 +102,6 @@ User Input → Validation → Prompt Template → Generated Prompt → Output
 
 ---
 
-##  Submission Details
-
-* Notebook: `.ipynb`
-* GitHub Repo: (Add your link here)
-* LinkedIn Post: (Add your link here)
-
----
-
 ##  Author
 
 Siddharth Reddy
